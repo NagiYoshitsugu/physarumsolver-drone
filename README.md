@@ -46,6 +46,7 @@ Maximum flow path in red; other edges are light gray.
 Network edges colored by D_max.  
 
 ## Example
+Calculated the path from node 0 to node 63.  
 |signal strength|flight path|
 |----|----|
 |<img width="1200" height="1678" alt="signal strength" title="signal strength" src="https://github.com/user-attachments/assets/e4d6bb06-b108-4b3c-a78a-9846e0912e7f" />|<img width="1000" height="1907" alt="physarum_path" title="flight path" src="https://github.com/user-attachments/assets/57e91bee-445e-4df5-a016-8328eeca9ef4" />|
